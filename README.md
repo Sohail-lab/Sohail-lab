@@ -4,6 +4,8 @@
 👨🏼‍💻 Working as a React Native Intern since 2025<br>
 💙 I love building apps with Flutter<br>
 
+![Profile views](https://komarev.com/ghpvc/?username=Sohail-lab&color=0078D7)
+
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
