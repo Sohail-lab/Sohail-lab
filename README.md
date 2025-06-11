@@ -2,6 +2,7 @@
 
 👨🏼‍🎓 Studying Computer Science and Engineering at Dr. APJ Abdul Kalam Technical University<br>
 👨🏼‍💻 Working as a React Native Intern since 2025<br>
+💙 I love building apps with Flutter<br>
 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
@@ -34,6 +35,14 @@
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sohail-lab&show_icons=true&locale=en" alt="Sohail-lab" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohail-lab&" alt="Sohail-lab" />
+</p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sohail-lab&show_icons=true&locale=en&layout=compact" alt="Sohail-lab" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sohail-lab" alt="Sohail-lab" /></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sohail-lab/Sohail-lab/output/github-snake-dark.svg" />
