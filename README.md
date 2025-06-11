@@ -38,12 +38,14 @@
 ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+# 📊 Stats:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Sohail-lab&show_icons=true&locale=en" alt="Sohail-lab" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohail-lab&" alt="Sohail-lab" />
 </p>
-
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sohail-lab&show_icons=true&locale=en&layout=compact" alt="Sohail-lab" /></p>
+
+## 🏆 Trophies:
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sohail-lab" alt="Sohail-lab" /></a></p>
 
 <picture>
