@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 👨🏼‍🎓 Studying Computer Science and Engineering at Dr. APJ Abdul Kalam Technical University<br>
-👨🏼‍💻 Working as a React Native Intern since 2025<br>
+👨🏼‍💻 Looking for work<br>
 💙 I love building apps with Flutter<br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sohail-lab&color=0078D7)
