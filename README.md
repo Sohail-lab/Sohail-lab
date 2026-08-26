@@ -81,7 +81,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Sohail-lab&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohail-lab&layout=compact&hide_border=true" alt="Most Used Languages" />
+        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohail-lab&layout=compact&hide_border=true" alt="Most Used Languages" /> -->
       </td>
     </tr>
   </table>
